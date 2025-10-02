@@ -16,3 +16,12 @@ print(type(y))
 x = "Auma"
 # is the same as
 x = 'Auma'
+
+a = 5
+b = 3
+c = a + b
+print(c)
+
+val =10
+val ="ten"
+print(val)
